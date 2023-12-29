@@ -1,0 +1,52 @@
+[products]
+
+    [[products.product]]
+    p_name = "Ajab homebaking 2kg"
+    p_code = "AJA002"
+    weight = 24
+    price = 2100
+
+    [[products.product]]
+    p_name = "Pembe homebaking 2kg"
+    p_code = "PEM002"
+    weight = 24
+    price = 2050
+
+    [[products.product]]
+    p_name ="Ajab homebaking 1kg"
+    p_code = "AJA001"
+    weight = 24
+    price = 2120
+
+    [[products.product]]
+    p_name ="Pembe homebaking 1kg"
+    p_code = "PEM001"
+    weight = 24
+    price = 2070
+
+
+[customers]
+
+    [[customers.customer]]
+    c_name = "First customer"
+    crm = "CRM001"
+    location = "Mombasa road"
+    credit_limit = 1500000
+
+    [[customers.customer]]
+    c_name = "Second Customer"
+    crm = "CRM002"
+    location = "CBD"
+    credit_limit = 1000000
+
+    [[customers.customer]]
+    c_name = "Third Customer"
+    crm = "CRM003"
+    location = "Mombasa road"
+    credit_limit = 2000000
+
+    [[customers.customer]]
+    c_name = "Fourth Customer"
+    crm = "CRM004"
+    location = "Eastleigh"
+    credit_limit = 4000000
