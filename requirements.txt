@@ -1,0 +1,9 @@
+certifi==2023.11.17
+charset-normalizer==3.3.2
+confluent-kafka==2.3.0
+idna==3.6
+psycopg2-binary==2.9.9
+pytz==2023.3.post1
+requests==2.31.0
+tomli==2.0.1
+urllib3==2.1.0
